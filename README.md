@@ -40,7 +40,7 @@ The task is episodic, and in order to solve the environment, your agent must get
 
 2. Place the file in the DRLND GitHub repository, in the `p1_navigation/` folder, and unzip (or decompress) the file.
 
-Additionally, the project requires '''python 3.6''', '''pytorch v1.5.0''' and '''Unity ML-Agent v0.4.0''' along with '''Unity'''. The full set of dependencies needed to build a virtual environment for this project can be found in [this file](requirements.txt). 
+    Additionally, the project requires ```python 3.6```, ```pytorch v1.5.0``` and ```Unity ML-Agent v0.4.0``` along with ```Unity```. The full set of dependencies needed to build a virtual environment for this project can be found in [this file](requirements.txt). 
 
 ### Instructions
 
